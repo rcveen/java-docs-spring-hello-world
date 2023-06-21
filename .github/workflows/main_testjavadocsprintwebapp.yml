@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Testjavadocsprintwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_657528F6604C4F8782AFFC63C0F21161 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06F6D9406A95480EA1178F855005736B }}
           package: '*.jar'
